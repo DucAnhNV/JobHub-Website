@@ -1,4 +1,4 @@
-_**GRADUATION THESIS COURSE : JobPositng Website (JobHub)**_
+_**GRADUATION THESIS COURSE : JobPosting Website (JobHub)**_
 
 Team member: 3
   - Nguyen Vo Duc Anh
